@@ -1,3 +1,4 @@
+Submitted on: 11/09/2026 Last Edited: 03/10/2026 -> (README.md)
 # 📚 RAG-Based Document QA System (Local Edition)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system that allows you to chat with your PDF documents. This version is designed to run **completely locally** on your machine, ensuring your data stays private and the system remains free to use.
